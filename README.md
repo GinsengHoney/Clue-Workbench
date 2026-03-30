@@ -140,7 +140,15 @@ scripts/
 
 ---
 
+## 赞助支持
+
+本项目赞助商：
+
+- 杭州未来视创电子商务工作室
+
+---
+
 ## License
 
-当前仓库未单独声明 License。若要开源发布，建议补充 `LICENSE` 文件并在 README 明确说明。
+本项目采用 [MIT License](./LICENSE)。
 
